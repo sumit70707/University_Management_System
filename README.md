@@ -1,6 +1,6 @@
 # 📘 University Management System (UMS)
 
-### **Academic Project – Fnal Year B.Tech (2023–24)**
+### **Academic Project – Final Year B.Tech (2023–24)**
 **Topic:** University Management System  
 **Guided by:** *Mr. Mahajan Sir*
 
